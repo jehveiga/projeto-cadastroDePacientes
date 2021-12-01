@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606012973 source:d:\jeh\documents\unip\progamacao_c\projetointregadoiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605156139 source:c:\users\jeh\documents\cursoprogramacaoc\progamacao_c\projetointregadoiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1606162400 source:d:\jeh\documents\unip\pim_prontos\pim_iv_final\projetointregadoiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+
